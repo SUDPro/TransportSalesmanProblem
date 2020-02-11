@@ -31,8 +31,5 @@ public class TravellingSalesmanProblem {
     }
 
     void calculateMatrix(){
-
     }
-
-
 }
